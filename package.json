@@ -2,7 +2,7 @@
   "name": "discord-rich-presence",
   "main": "./lib/rpc",
   "version": "1.3.0",
-  "description": "Enables Discord Rich Presence for InkDrop",
+  "description": "Enables Discord Rich Presence for Inkdrop",
   "keywords": [],
   "repository": "https://github.com/emersonh-xyz/inkdrop-discord-rpc",
   "license": "MIT",
