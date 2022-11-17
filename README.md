@@ -11,5 +11,5 @@ ipm install discord-rich-presence
 
 ## Planned features
 
-* [ ] Change what info is displayed
-* [ ] Toggle On And Off
+* [ ] Ability to change what info is displayed
+* [ ] Toggle on And off
